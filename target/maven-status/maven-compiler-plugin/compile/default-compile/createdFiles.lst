@@ -1,0 +1,7 @@
+servicios\ConsultasImplementacion.class
+controladores\Inicio.class
+util\ADto.class
+dtos\LibroDto.class
+servicios\ConexionImplementacion.class
+servicios\ConexionInterfaz.class
+servicios\ConsultasInterfaz.class

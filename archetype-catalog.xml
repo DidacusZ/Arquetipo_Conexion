@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+    xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <archetypes>
+    <archetype>
+      <groupId>arquetipo001</groupId>
+      <artifactId>arquetipo001</artifactId>
+      <version>arquetipo001</version>
+      <repository>arquetipo001</repository>
+    </archetype>
+    <archetype>
+      <groupId>arquetipo002</groupId>
+      <artifactId>arquetipo002-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>arquetipo002-archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>arquetipo003</groupId>
+      <artifactId>arquetipo003-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>arquetipo003-archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>arquetipo004</groupId>
+      <artifactId>arquetipo004-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>arquetipo004-archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>diego</groupId>
+      <artifactId>conexionArquetipo-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>conexionArquetipo-archetype</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
